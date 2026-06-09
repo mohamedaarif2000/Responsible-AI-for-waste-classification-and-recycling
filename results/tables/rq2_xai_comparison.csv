@@ -1,0 +1,5 @@
+Method,Accuracy,Speed,Interpretability,Stability,Fidelity
+Grad-CAM,4.5,4.8,4.0,3.8,4.2
+SHAP,4.8,3.2,4.5,4.6,4.8
+LIME,4.0,2.5,4.2,3.5,3.8
+Saliency Map,3.5,4.9,3.0,2.8,3.2

@@ -1,0 +1,5 @@
+Config,FPS,Accuracy_%,Size_MB,Passes,Status
+ResNet-50 GPU,32.0,88.95,87.0,True,PASS ✅
+MobileNetV3 FP32 CPU,211.9,84.95,5.9,False,FAIL ❌
+MobileNetV3 INT8 CPU,226.9,85.15,4.2,False,FAIL ❌
+MobileNetV3 FP16 Orin,38.0,86.95,3.0,True,PASS ✅

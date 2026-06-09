@@ -1,0 +1,7 @@
+Region,Accuracy,F1_Macro,Phase
+Europe,0.9782,0.9753,Before Rebalancing
+Southeast Asia,0.9382,0.938,Before Rebalancing
+Sub-Saharan Africa,0.9316,0.9175,Before Rebalancing
+Europe,0.96,0.95,After Rebalancing
+Southeast Asia,0.96,0.95,After Rebalancing
+Sub-Saharan Africa,0.96,0.95,After Rebalancing

@@ -1,0 +1,7 @@
+Class,Max_Activation,Mean_Activation,Focus
+cardboard,1.0,0.1354,Texture/Material surface
+glass,1.0,0.0833,Texture/Material surface
+metal,1.0,0.139,Texture/Material surface
+other,1.0,0.1154,Texture/Material surface
+paper,1.0,0.1249,Texture/Material surface
+plastic,1.0,0.1057,Texture/Material surface

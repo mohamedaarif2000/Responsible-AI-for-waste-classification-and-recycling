@@ -1,0 +1,2 @@
+Training_CO2_kg,Inference_CO2_per_item_g,Daily_Savings_kg,Items_Per_Day,Sort_Improvement_%,Payback_Days,Transfer_vs_Scratch_Ratio,Scratch_Emissions_kg,Annual_Savings_kg,Net_Positive
+2.8e-05,2.22e-06,0.15,10000,3.0,0.0,40,0.001124,54.75,YES
